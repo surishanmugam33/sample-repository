@@ -1,2 +1,2 @@
 # sample-repository
-poda ooda punnakku
+poda poda punnakku
